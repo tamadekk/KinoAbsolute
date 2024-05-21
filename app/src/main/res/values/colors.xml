@@ -6,6 +6,8 @@
     <color name ="cardBackground">#5122cb</color>
 
     <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lavender">#E6E6FA</color>
     <color name="lighterPink">#ddacf5</color>
     <color name="lightPink">#f8d8f8</color>
     <color name="yellow">#ffb300</color>
