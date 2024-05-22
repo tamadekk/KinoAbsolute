@@ -4,4 +4,63 @@
     <string name="close_nav">Close Navigation Drawer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coralineCast">Pasta
+\nCream Cheese
+\nParmesan Cheese
+\nOlive Oil
+\nGarlic
+\nSalt Pepper</string>
+    <string name="coralineDesc">Cook your pasta until al dente
+\nSaute’ garlic in olive oil until fragrant
+\nAdd cream cheese, pasta cooking water, parmesan, and stir well
+\nDrain and add pasta to the skillet
+\nToss until well combined, adding some pasta water if needed</string>
+    //maggi
+    <string name="spiderCast">    Shameik Moore, Hailee Steinfeld, Jake Johnson, Oscar Isaac, Issa Rae, Brian Tyree Henry, Luna Lauren Vélez, Daniel Kaluuya, Jason Schwartzman</string>
+    <string name="spiderDesc">"Spider-Man: Across the Spider-Verse" follows Miles Morales as he embarks on an epic journey across the multiverse. Teaming up with Gwen Stacy and other Spider-People, they must confront a new villain that threatens the existence of all dimensions. This animated film blends stunning visuals with a compelling story about heroism and the power of teamwork.</string>
+    //cake
+    <string name="openCast">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="openDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pancake
+    <string name="showCast">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="showDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pizza
+    <string name="insideCast">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="insideDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //burgers
+    <string name="deadpoolCast">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="deadpoolDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //fries
+    <string name="disCast">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="disDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
 </resources>
